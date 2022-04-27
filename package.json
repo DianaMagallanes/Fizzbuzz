@@ -1,0 +1,19 @@
+{
+  "name": "fizzbuzz",
+  "version": "1.0.0",
+  "description": "Ejercicio 1 Semana 4 Backend Launch X",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DianaMagallanes/Fizzbuzz.git"
+  },
+  "author": "DianaMagallanes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DianaMagallanes/Fizzbuzz/issues"
+  },
+  "homepage": "https://github.com/DianaMagallanes/Fizzbuzz#readme"
+}
