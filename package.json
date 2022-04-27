@@ -4,7 +4,7 @@
   "description": "Ejercicio 1 Semana 4 Backend Launch X",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node ./node_modules/jest/bin/jest.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/DianaMagallanes/Fizzbuzz/issues"
   },
-  "homepage": "https://github.com/DianaMagallanes/Fizzbuzz#readme"
+  "homepage": "https://github.com/DianaMagallanes/Fizzbuzz#readme",
+  "devDependencies": {
+    "jest": "^28.0.1"
+  }
 }
