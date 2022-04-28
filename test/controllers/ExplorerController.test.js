@@ -13,7 +13,7 @@ describe("Test for ExplorerController",()=> {
     });    
 
     test("3. Filter list of explorers, amount",()=>{
-        const explorers = ExplorerController.getExplorersAmonutByMission("node");
+        const explorers = ExplorerController.getExplorersAmountByMission("node");
         expect(explorers).toBe(10);        
     });
    
