@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/DianaMagallanes/Fizzbuzz#readme",
   "devDependencies": {
-    "jest": "^28.0.1"
+    "jest": "^26.0.0"
   },
   "dependencies": {
     "express": "^4.18.0"
