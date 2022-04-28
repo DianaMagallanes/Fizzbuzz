@@ -1,5 +1,5 @@
 # Fizzbuzz
-Ejercicio 1 Semana 4 Backend Launch X
+Ejercicio 1-4 Semana 4 Backend Launch X
 <hr>
 Este repo contiene el proyecto de actividad para la semana 4 de Backend NodeJs. 
 
