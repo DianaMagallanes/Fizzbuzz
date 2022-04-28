@@ -1,9 +1,9 @@
-const Reader = require('./../lib/utils/Reader')
+const Reader = require('../../lib/utils/Reader')
 
 describe("Test for Reader",()=> {
 
     test("1. Obtain qty list of explorers",()=>{
-        const explorers = Reader.readJsonFile('explorers.json')
+        const explorers = Reader.readJsonFile('./explorers.json')
         expect(explorers.length).toBe(15)        
     });
    
