@@ -16,5 +16,10 @@ describe("Test for ExplorerController",()=> {
         const explorers = ExplorerController.getExplorersAmountByMission("node");
         expect(explorers).toBe(10);        
     });
+
+    test("4. Fizzbuzz status",()=>{
+        const result = ExplorerController.getFizzbuzzStatus(15);
+        expect(result).toBe("FIZZBUZZ");        
+    });
    
 });
