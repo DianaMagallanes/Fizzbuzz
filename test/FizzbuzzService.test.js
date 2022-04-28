@@ -1,4 +1,4 @@
-const FizzbuzzService = require('../lib/utils/FizzbuzzService')
+const FizzbuzzService = require('../lib/services/FizzbuzzService')
 
 describe("Test for ExplorerService",()=> {
 
